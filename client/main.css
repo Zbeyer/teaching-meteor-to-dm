@@ -6,6 +6,23 @@ body {
   color: #fefefe;
 }
 
-.foo {
+.main {
+    display: block;
     padding: 1rem;
+    max-width: 1200px;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+.header {
+
+}
+
+.footer {
+
+}
+
+.app-body {
+    text-align: left;
 }
