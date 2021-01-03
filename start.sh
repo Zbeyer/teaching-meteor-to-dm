@@ -2,4 +2,5 @@
 
 source setup.sh
 
-meteor --settings settings.json
+#meteor --settings settings.json
+meteor
